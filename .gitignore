@@ -1,0 +1,9 @@
+# Node modules
+node_modules/
+
+# Build & Output files
+dist/
+
+# OS specific files
+.DS_Store
+Thumbs.db
